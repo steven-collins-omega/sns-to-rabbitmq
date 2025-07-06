@@ -1,7 +1,7 @@
 # sns-to-rabbitmq
 
 This is the code to an application described in our blog post 
-["My Precious Little Container (emphasis on _little_)"](https://tech.xogrp.com/my-precious-little-container-emphasis-on-little-8a2b2077e35f).
+["My Precious Little Container (emphasis on _little_)"](https://techblog.theknotww.com/post/my-precious-little-container-emphasis-on-little/)).
 
 As such it is primarily offered here as an example, but it is also perfectly usable as a simple web application that acts as a sort of
 proxy, effectively allowing you to subscribe a RabbitMQ queue to an SNS topic. (One could also ignore the SNS-specific functionality and
