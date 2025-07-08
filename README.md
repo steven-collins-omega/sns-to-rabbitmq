@@ -1,5 +1,7 @@
 # sns-to-rabbitmq
 
+**NOTE** this is no longer maintained and will not build now as given -- if nothing else, the base images are no longer on Dockerhub.
+
 This is the code to an application described in our blog post 
 ["My Precious Little Container (emphasis on _little_)"](https://techblog.theknotww.com/post/my-precious-little-container-emphasis-on-little/)).
 
